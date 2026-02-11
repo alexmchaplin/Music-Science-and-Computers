@@ -1,7 +1,4 @@
 {"_base":"https://raw.githubusercontent.com/LCagmac/AudioSamples/main/","AquaSounds":
 ["aquaI.wav", "aquaII.wav", "aquaIII.wav"]}
-{"_base":"https://raw.githubusercontent.com/YourGithubUserName/RepositoryWhereYouWillSto
-reYourAudioFiles/main/","GiveYourCollectionAName": ["FileName.wav", "FileName2.wav",
+{"_base":"https://raw.githubusercontent.com/alexmchaplin/Music-Science-and-Computers/main/","Sound Collage": [".wav", "FileName2.wav",
 "FileName3.wav"]}
-Rename the file as strudel.json and put this on the same repository page as your audio files.
-strudel.json File
